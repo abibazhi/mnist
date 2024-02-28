@@ -1,4 +1,5 @@
-import six.moves.cPickle as pickle
+# import six.moves.cPickle as pickle
+import pickle
 import gzip
 import numpy as np
 
@@ -32,3 +33,12 @@ def load_data_impl():
 def load_data():
     train_data, test_data = load_data_impl()
     return shape_data(train_data), shape_data(test_data)
+
+train_data_1, test_data_1 = load_data()
+# print(123)
+
+for feature, label in train_data_1[:5]:
+    print(len(feature),feature.shape)
+    print(len(label))
+    #print("\n")
+    # print(f"Feature Vector (784 elements):\nlen(feature)\nLabel Vector (one-hot encoded):\len(label)\n---")
