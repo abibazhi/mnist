@@ -34,11 +34,13 @@ def load_data():
     train_data, test_data = load_data_impl()
     return shape_data(train_data), shape_data(test_data)
 
-train_data_1, test_data_1 = load_data()
+train, test = load_data()
 # print(123)
 
-for feature, label in train_data_1[:5]:
+for feature, label in train[:5]:
     print(len(feature),feature.shape)
     print(len(label))
     #print("\n")
     # print(f"Feature Vector (784 elements):\nlen(feature)\nLabel Vector (one-hot encoded):\len(label)\n---")
+
+print(train[0][0])

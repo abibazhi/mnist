@@ -21,5 +21,6 @@ def sigmoid_prime(z):
     return np.vectorize(sigmoid_prime_double)(z)
 # end::sigmoid_prime[]
 
-a = sigmoid(5)
+a = sigmoid(500)
+print(a)
 
