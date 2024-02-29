@@ -44,3 +44,6 @@ for feature, label in train[:5]:
     # print(f"Feature Vector (784 elements):\nlen(feature)\nLabel Vector (one-hot encoded):\len(label)\n---")
 
 #print(train[0][0])
+
+import sys
+print(sys.path)
