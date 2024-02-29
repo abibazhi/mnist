@@ -22,3 +22,4 @@ def sigmoid_prime(z):
 # end::sigmoid_prime[]
 
 a = sigmoid(5)
+
