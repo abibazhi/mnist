@@ -1,6 +1,6 @@
 # import six.moves.cPickle as pickle
-import pickle
-import gzip
+#import pickle
+#import gzip
 import numpy as np
 
 
@@ -43,4 +43,4 @@ for feature, label in train[:5]:
     #print("\n")
     # print(f"Feature Vector (784 elements):\nlen(feature)\nLabel Vector (one-hot encoded):\len(label)\n---")
 
-print(train[0][0])
+#print(train[0][0])
