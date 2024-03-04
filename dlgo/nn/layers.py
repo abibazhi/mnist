@@ -183,8 +183,8 @@ class DenseLayer(Layer):
 # <3> A dense layer can be described by its input and output dimensions.
 # end::dense_update[]
         
-a = sigmoid(500)
-print(a)
-import sys
-print(sys.path)
+#a = sigmoid(500)
+#print(a)
+#import sys
+#print(sys.path)
 
