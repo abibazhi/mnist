@@ -1,3 +1,4 @@
+# 第一章
 0. hapax
    >罕用语
    >
@@ -26,6 +27,11 @@
    > 英/əˈnæfərə/,回指
    > 
    > anaphora resolution,指代消解
+   >
+
+# 第二章
+0. corpus
+   >英/ˈkɔːpəs/,语料库
    > 
    > The thieves stole the painting . They were subsequently sold.
 0. semantic role labeling
