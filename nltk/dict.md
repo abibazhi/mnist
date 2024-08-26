@@ -13,5 +13,7 @@
    >Bigrams：两个连续的单词或字符。
    >Trigrams：三个连续的单词或字符。
    >n-grams：n 个连续的单词或字符。
-0. 
+0. cumulative
+   >英/ˈkjuːmjələtɪv/
+   >累积的；累计的；
   
