@@ -9,13 +9,13 @@
 0. FreqDist
    >FreqDist 中的 "Dist" 指的是 "Distribution"
 0. Bigrams
-   >Unigrams：单个单词或字符。
-   >Bigrams：两个连续的单词或字符。
-   >Trigrams：三个连续的单词或字符。
-   >n-grams：n 个连续的单词或字符。
+   > Unigrams：单个单词或字符。
+   > Bigrams：两个连续的单词或字符。
+   > Trigrams：三个连续的单词或字符。
+   > n-grams：n 个连续的单词或字符。
 0. cumulative
-   >英/ˈkjuːmjələtɪv/
-   >累积的；累计的；
+   > 英/ˈkjuːmjələtɪv/
+   > 累积的；累计的；
 0. anaphora
    > 英/əˈnæfərə/,回指
    >> anaphora resolution,指代消解
