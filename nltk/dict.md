@@ -1,6 +1,7 @@
 0. hapax
->罕用语
->fdist1.hapaxes()
+   >罕用语
+   >
+   >fdist1.hapaxes()
 0. lexical
    >词汇的，英/ˈleksɪkl/
    >lexical_diversity()
