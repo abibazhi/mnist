@@ -16,4 +16,8 @@
 0. cumulative
    >英/ˈkjuːmjələtɪv/
    >累积的；累计的；
+0. anaphora
+   >英/əˈnæfərə/,回指
+   >anaphora resolution,指代消解
+   >The thieves stole the painting . They were subsequently sold.
   
