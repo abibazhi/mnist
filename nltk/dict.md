@@ -25,7 +25,9 @@
 0. anaphora
    > 英/əˈnæfərə/,回指
    > 
-   >> anaphora resolution,指代消解
-   >> 
-   >> The thieves stole the painting . They were subsequently sold.
+   > anaphora resolution,指代消解
+   > 
+   > The thieves stole the painting . They were subsequently sold.
+0. semantic role labeling
+   >语义角色标注
   
