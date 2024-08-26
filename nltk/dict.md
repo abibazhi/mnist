@@ -36,4 +36,8 @@
    > The thieves stole the painting . They were subsequently sold.
 0. semantic role labeling
    >语义角色标注
+0. inaugural
+   >英/ɪˈnɔːɡjərəl/
+   >>就职典礼
+   
   
