@@ -39,5 +39,20 @@
 0. inaugural
    >英/ɪˈnɔːɡjərəl/
    >>就职典礼
+0. lemma name
+   >词干名称
+0. lemma
+   >引理
+0. hyponyms
+   >ˈhīpəˌnim,下义词
+   >>wn.synsets('hyponyms')
+   >>print(wn.synset('hyponym.n.01').lemma_names())
+   >>print(wn.synset('hyponym.n.01').lemmas())
+   >>print(wn.synset('hyponym.n.01').definition())
+   >>print(wn.synset('hyponym.n.01').examples())
+   >>
+   >>prondict = nltk.corpus.cmudict.dict()
+   >>prondict['apple']
+
    
   
